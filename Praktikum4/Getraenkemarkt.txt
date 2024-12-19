@@ -1,0 +1,11 @@
+Artikelnummer: 12345
+Einkaufspreis: 2.0
+Verkaufspreis: 3.0
+Getraenk mit Alkohol: Ja
+Groessen der Flaschen: 0.33
+
+Artikelnummer: 23456
+Einkaufspreis: 1.0
+Verkaufspreis: 1.5
+Getraenk mit Alkohol: Nein
+Groessen der Flaschen: 0.5
